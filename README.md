@@ -12,3 +12,7 @@ You can also run it online using Google's Colab here:
 | [Link](https://colab.research.google.com/github/leocd91/geoscience-ML-tutorial/blob/main/05_Mineral_Petrography_Classification.ipynb) | Petrography Mineral Classification |
 | Coming Soon! | Seismic Facies Identification Revisited : Vision Transformer |
 | [Link](https://colab.research.google.com/github/leocd91/geoscience-ML-tutorial/blob/main/06_Seismic_Event_Detection_(Seismology_Passive_Seismic).ipynb) | Seismic Event Detection (Seismology / Passive Seismic) |
+
+Citation : 
+
+> Leo Cahya Dinendra, Geoscience ML tutorial, (2020), GitHub repository, https://github.com/leocd91/geoscience-ML-tutorial/
