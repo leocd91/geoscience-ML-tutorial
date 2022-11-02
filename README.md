@@ -1,4 +1,4 @@
-# geoscience-ML-tutorial
+## geoscience-ML-tutorial
 Some simple tutorials about machine learning / deep learning / optimization in geosciences.
 
 You can also run it online using Google's Colab here:
